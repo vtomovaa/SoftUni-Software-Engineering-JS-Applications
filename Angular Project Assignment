@@ -1,0 +1,58 @@
+Task: Design and Implement a Web Application using Angular and Firebase
+
+Description:
+Your task is to design and implement a web application using Angular as the frontend framework and Firebase as the backend service. The application should provide a platform for users to engage in discussions on various topics. Users should be able to register, log in, create posts, comment on posts, and interact with other users.
+
+Requirements:
+
+Application Structure:
+
+Implement a public part that includes the start page, user login, and user registration forms.
+Create a private part for registered users that includes functionality such as user profile management, creating posts, commenting on posts, etc.
+Dynamic Pages:
+
+Design and implement at least three different dynamic pages that provide distinct functionality within the application. Examples could include a homepage displaying recent posts, a user profile page, a page to create new posts, a page to view and comment on posts, etc.
+Angular Framework:
+
+Use Angular for the client-side development of the application.
+Utilize Angular's features and components to create a responsive and interactive user interface.
+Communication with Firebase:
+
+Implement communication between the Angular frontend and Firebase backend using Firebase SDK.
+Use Firebase Firestore or Firebase Realtime Database to store and retrieve data such as user information, posts, and comments.
+Utilize Firebase Authentication for user registration, login, and session management.
+Authentication:
+
+Implement user authentication using Firebase Authentication.
+Allow users to register an account, log in, and log out securely.
+Source Control:
+
+Use a source control system like GitHub or Bitbucket to manage your codebase.
+Commit your code regularly and maintain a repository with at least three days' worth of commits.
+Error Handling and Data Validation:
+
+Implement error handling mechanisms to handle and display errors gracefully.
+Perform data validation to prevent crashes and ensure the integrity of the data entered by users.
+Documentation:
+
+Provide a brief documentation file (e.g., README.md) that explains the project and its architecture.
+Include instructions on how to set up and run the application locally.
+Usability, UI/UX, and Styling:
+
+Design the user interface to be visually appealing, intuitive, and user-friendly.
+Utilize UI frameworks like NGBootstrap, Material Design, CSS Grids, or any other suitable method to enhance the UI and UX of the application.
+Bonus Features (Optional):
+
+Deploy the application in a cloud environment (e.g., Firebase Hosting, Netlify, Heroku, etc.).
+Integrate a file storage cloud API, such as Dropbox or Google Drive, for storing files associated with posts or user profiles.
+Utilize HTML5 features like Geolocation, SVG, Canvas, etc., to enhance specific functionalities.
+Incorporate Angular Animations to add engaging and interactive elements.
+Write unit tests for your Angular components to ensure their correctness and stability.
+Implement state management using RxJS and ngRx store, inspired by Redux, for a scalable and maintainable architecture.
+Include any additional features that are not described in the assignment but have practical use within the application.
+Project Defense:
+
+Prepare a 20-minute presentation to demonstrate how the application works, including its features, functionality, and the source code.
+Be ready to explain the project's architecture and how different components interact with each other.
+Show and explain your codebase, highlighting important design decisions and implementation details.
+There will be time for questions and feedback from trainers, so be prepared to address inquiries and discuss your work.
